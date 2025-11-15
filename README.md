@@ -1,4 +1,5 @@
-#  Real Estate CRM - Team Project
+Here's a clean, professional README.md for your project:
 
-##  Team Members
-- **Gedion** - Backend Core & Security
+# Real Estate CRM
+
+- **Nardos** - Frontend Foundation & UI
